@@ -57,6 +57,6 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
 
 Stay tuned for more containerized innovations from DockSpace! ⚓🚀  
 
-By-Kartik Bhatt
+By-Vedang Parashar
 
 ---
